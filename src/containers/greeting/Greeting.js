@@ -50,7 +50,7 @@ export default function Greeting() {
               </div>
             </div>
           </div>
-          <div className="greeting-image-div" style={{ textAlign: "center" }}>
+          <div className="greeting-image-div" style={{textAlign: "center"}}>
             {illustration.animated ? (
               <DisplayLottie animationData={landingPerson} />
             ) : (

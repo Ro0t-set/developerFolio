@@ -217,7 +217,8 @@ const bigProjects = {
     {
       image: require("./assets/images/piperchatLogo.png"), // Replace with actual image path
       projectName: "PiperChat",
-      projectDesc: "A microservices-based Discord clone using WebRTC, Docker, Vue.js, and Node.js. Implemented features for real-time communication and managed the deployment using Kubernetes.",
+      projectDesc:
+        "A microservices-based Discord clone using WebRTC, Docker, Vue.js, and Node.js. Implemented features for real-time communication and managed the deployment using Kubernetes.",
       footerLink: [
         {
           name: "GitHub Repository",
@@ -228,7 +229,8 @@ const bigProjects = {
     {
       image: require("./assets/images/PiperKtLogo.png"), // Replace with actual image path
       projectName: "PiperKT",
-      projectDesc: "A Kotlin-based clone of PiperChat with a microservices architecture, leveraging Kubernetes and Nginx for deployment. Focused on building a scalable and maintainable application.",
+      projectDesc:
+        "A Kotlin-based clone of PiperChat with a microservices architecture, leveraging Kubernetes and Nginx for deployment. Focused on building a scalable and maintainable application.",
       footerLink: [
         {
           name: "GitHub Repository",
@@ -239,7 +241,6 @@ const bigProjects = {
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
 
 // Achievement Section
 // Include certificates, talks etc
